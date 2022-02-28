@@ -1,0 +1,15 @@
+.nav-link{
+    color: black !important;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.navbar{
+    padding: 0;
+}
+.container-fluid{
+    padding: 0;
+}
+.text-section img{
+    height: 382px;
+    width: 446px;
+}
